@@ -11,10 +11,6 @@ The dataset consists of various car attributes and their prices, collected throu
 
 Dataset Link: [Car Price Dataset](https://drive.google.com/file/d/1FHmYNLs9v0Enc-UExEMpitOFGsWvB2dP/view?usp=drive_link)
 
-# Car Price Prediction
-
-## Overview
-This project aims to predict car prices using machine learning models, primarily focusing on **Random Forest Regression**. The dataset consists of various features like engine size, horsepower, fuel type, and car dimensions, which influence the price of a vehicle.
 
 ## Features & Workflow
 - **Data Preprocessing**: Handling missing values, encoding categorical variables, and feature scaling.
