@@ -49,7 +49,7 @@ Dataset Link: [Car Price Dataset](https://drive.google.com/file/d/1FHmYNLs9v0Enc
 ## Technologies Used
 - **Python** (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
 - **Jupyter Notebook**
-- **Machine Learning Models** (Random Forest, SVR, Linear Regression)
+- **Machine Learning Models** (Random Forest, SVR, Linear Regression, Decision Tree Regression, Gradient Boosting Regression)
 
 ## Future Improvements
 - Include **deep learning models** for better accuracy.
