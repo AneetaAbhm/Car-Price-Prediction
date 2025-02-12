@@ -17,20 +17,21 @@ Dataset Link: [Car Price Dataset](https://drive.google.com/file/d/1FHmYNLs9v0Enc
 - **Exploratory Data Analysis (EDA)**: Identifying key factors affecting car prices.
 - **Model Training & Evaluation**:
   - Linear Regression
-  - Ridge & Lasso Regression
+  - Decision Tree Regressor
+  - Random Forest Regression
   - Support Vector Regression
-  - **Random Forest Regression (Best Performing Model)**
+  - **Gradient Boosting Regressor (Best Performing Model)**
 - Conducted **feature importance analysis** to understand key pricing factors.
-- **Hyperparameter Tuning**: Optimized Random Forest model using **RandomizedSearchCV** for improved performance.
+- **Hyperparameter Tuning**: Optimized Gradient Boosting  model using **RandomizedSearchCV** for improved performance.
 - **Prediction on Test Data**: Evaluated using MAE, MSE, RMSE, and R² score.
 
 ## Results
-- Best Model: **Random Forest Regression**
+- Best Model: **Gradient Boosting Regressor**
 - After Hyperparameter Tuning:
-  - **R² Score:** 0.84
-  - **MAE:** 2457.65
-  - **MSE:** 13,882,434.60
-  - **RMSE:** 3725.91
+  - **R² Score:** 0.889
+  - **MAE:** 2089.8
+  - **MSE:** 9591642.07
+  - **RMSE:** 3097.03
 
 
 ## Installation & Usage
